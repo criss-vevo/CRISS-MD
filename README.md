@@ -77,20 +77,13 @@ src="https://files.catbox.moe/xro4ka.jpeg"/>
 
 
 
-**Now Deploy to any hosting of ur choice**
+3.👇 Create Account on Heroku  
+[![Create Account on Heroku](https://img.shields.io/static/v1?label=Create%20Account&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨+🛰️)](https://git.io/typing-svg)
+<br>
 
-•If you don't have an account in Heroku, create one.
-   <br>
-    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
-**• 1.1 Now deploy.**
-    <br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fcriss-vevo%2CRISS-MD) 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
- 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+4.👇 Deploy to Heroku If your have account
+[![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/criss-vevo/CRISS-MD)
 
  **❖ FOR SUPPORT ❖**
  
