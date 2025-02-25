@@ -77,16 +77,19 @@ src="https://files.catbox.moe/xro4ka.jpeg"/>
 
 
 
-#### DEPLOY TO HEROKU 
-1. `If You Don't Have An Account On Heroku`
+**Now Deploy to any hosting of ur choice**
 
-- <a align="center"><a href="https://signup.heroku.com">
- <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨+🛰️)](https://git.io/typing-svg)
 
-2. `If You Have a Heroku Account`
+•If you don't have an account in Heroku, create one.
+   <br>
+    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/criss-vevo/CRISS-MD/tree/main"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
+**• 1.1 Now deploy.**
+    <br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fcriss-vevo%2CRISS-MD) 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+ 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
  **❖ FOR SUPPORT ❖**
